@@ -1,0 +1,167 @@
+body {
+}
+
+#myProfilepic .pic {
+    position: absolute;	
+    font-weight: bold;
+    color: #000000;
+    width: 320px;
+    top: 280px;
+    text-align: left;
+}
+
+#myProfiledata .data {
+    position: absolute;
+    left: 550px;
+    font-weight: bold;
+    color: #000000;
+    width: 417px;
+    text-align: left;
+    top: 280px;
+}
+
+#itemdata .description{
+	    position: absolute;
+	    font-weight: normal;
+	    color: #000000;
+	    width: 1000px;
+	    text-align: left;
+	    top: 650px;
+}
+
+li {
+	margin: .2em 0;
+}
+
+ol#toc {
+	height: 2.3em;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ol#toc a {
+	background: url(tab1.png);
+	color: white;
+	display: block;
+	float: left;
+	height: 2.3em;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+
+ol#toc a:hover {
+	background-position: 0 -120px;
+}
+
+ol#toc a:hover span {
+	background-position: 100% -120px;
+}
+
+ol#toc li {
+	float: left;
+	margin: 0 1px 0 0;
+}
+
+ol#toc li.current a {
+	background-color:  url(tab1.png);
+	background-position: 0 -60px;
+	color: white;
+	font-weight: bold;
+}
+
+ol#toc li.current span {
+	background-position: 100% -60px;
+}
+
+ol#toc span {
+	background: url(tab1.png) 100% 0;
+	cursor: pointer;
+	display: block;
+	float: left;
+	line-height: 2.3em;
+	padding-right: 10px;
+}
+
+      .style11
+             {
+                 width: 324px;
+                 height: 299px;
+             }
+             #Button1
+             {
+                 width: 84px;
+                 margin-left: 8px;
+             }
+             #Text1
+             {
+                 height: 18px;
+                 width: 93px;
+                 margin-top: 0px;
+             }
+             #Quan
+             {
+                 width: 41px;
+             }
+             .style12
+             {
+                 width: 416px;
+                 height: 93px;
+             }
+             #Zipcode
+             {
+                 width: 97px;
+        }
+        
+        .style1
+                   {
+                       width: 100%;
+                   margin-left: 0px;
+                   height: 66px;
+               }
+                   .style5
+                   {
+                   width: 377px;
+               }
+                   .style7
+                   {
+                       width: 377px;
+                       height: 22px;
+                   }
+                   .style12
+               {
+                   width: 311px;
+                   height: 22px;
+               }
+               .style13
+               {
+                   width: 311px;
+               }
+               .style14
+               {
+                   width: 343px;
+                   height: 22px;
+               }
+               .style15
+               {
+                   width: 343px;
+               }
+               #Text1
+               {
+                   width: 427px;
+               }
+               .style17
+               {
+                   width: 804px;
+                   height: 68px;
+               }
+               .style18
+               {
+                   width: 375px;
+                   height: 22px;
+               }
+               .style19
+               {
+                   width: 375px;
+        }
