@@ -1,0 +1,207 @@
+
+
+*{
+margin:0px;
+padding:0px;
+}
+
+ul#nav li
+{
+list-style-type:none;
+}
+
+ul#nav li
+{
+width:125px;
+text-align:center;
+position:relative;
+}
+
+ul#nav .sat 
+{
+text-decoration:none;
+display:block;
+width:175px;
+height:30px;
+line-height:25px;
+background-color:none;
+border:2px solid #01A9DB;
+border-radius:10px;
+text-align:center;
+
+}
+
+ul#nav .sat a
+{
+border-radius:10px;
+
+}
+
+ul#nav a
+{
+text-decoration:none;
+display:block;
+width:175px;
+height:30px;
+line-height:25px;
+color:black;
+font-family:"Cambria";
+}
+
+
+ul#nav .ss a
+{
+text-decoration:none;
+display:block;
+color:black;
+width:175px;
+height:30px;
+font-family:"Cambria";
+font-weight:normal;
+}
+
+
+ul#nav sand
+{
+text-decoration:none;
+width:125px;
+height:25px;
+line-height:25px;
+background-color:#0094FF;
+border:2px;
+border-radius:1%;
+text-align:center;
+}
+
+ul#nav ul.ss
+{
+display:none;
+position:absolute;
+top:0px;
+left:180px;
+
+}
+
+#nav li:hover .ss
+{
+display:block;
+}
+
+#nav li
+{
+margin-top:1px;
+}
+
+th
+{
+background-color:#e3e3e3;
+border-radius:10px;
+border:2px solid black;
+text-align:center;
+width:175px;
+height:35px;
+margin-top:0px;
+
+}
+
+#nav .sat:hover  
+{
+background-color:#CFC;
+}
+#nav .san
+{
+width:310px;
+height:560px;
+background-color:white;
+border:2px solid #01A9DB;
+border-radius:10px;
+}
+
+
+#nav .sann
+{
+width:310px;
+height:400px;
+background-color:white;
+border:2px solid #01A9DB;
+border-radius:10px;
+}
+
+#nav .dama
+
+{
+position:absolute;
+left:5px;
+top:5px;
+}
+
+
+#nav .dama2
+
+{
+position:absolute;
+left:106px;
+top:5px;
+}
+
+#nav .dama3
+
+{
+position:absolute;
+left:206px;
+top:5px;
+}
+
+#nav .dama4
+
+{
+position:absolute;
+left:206px;
+top:106px;
+}
+
+#nav .dama5
+
+{
+position:absolute;
+left:206px;
+top:206px;
+}
+
+#nav .dama6
+
+{
+position:absolute;
+left:206px;
+top:306px;
+}
+
+#nav .dama7
+
+{
+position:absolute;
+left:206px;
+top:406px;
+}
+
+#nav .dama8
+
+{
+position:absolute;
+left:206px;
+top:506px;
+}
+#nav .dama9
+
+{
+position:absolute;
+left:206px;
+top:606px;
+}
+
+#countdown p {
+display: inline-block;
+padding: 5px;
+background: #FFA500;
+margin: 0 0 20px;
+}
