@@ -1,32 +1,21 @@
-radixSort
-heapSort
-bucket sort
-introsort
-mergesort plus
-quicksort plus
-timsort
+arrayList
+Binomial Queues
+Fibonacci Heap
+Leftist Heap
+Binary Heap
+d-Heaps
+Skew Heaps
 
-Prim's
-Kruskall
-topological sort(all types)
-detect cycle in (un)directed graph
-detect odd cycle (of each component)
-Hamiltonian cycle
-Hachers graph
-vertex cover
-complement graph
-number of separate components
-is tree
-is Bipartite
-get spanning tree
-get components list
-toString
-
-BitSet
-BloomFilter
-
-hash, -> encodable, decodable, murmut, sha256
-
-
-
-
+PriorityQueue
+HashTable
+REd-Black Tree
+B Tree
+Stack
+Queue
+Directed Graph
+Undirected Graph
+Trie
+UnionFind (Disjoint Set)
+Suffix trees
+Skip List
+Splay tree
