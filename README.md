@@ -1,12 +1,13 @@
-# DS-Algo-python/C++ (HacktoberFest 2020!)
+# Java File IO approaches
+Currently This package contains test cases and benchmarks of the following Java classes.  
+#### [Blog about File IO in Java](http://sherxon.com/blog/fastest-io-in-java)  
 
-This repo is created to help the students with a PR for HacktoberFest 2020.Just check out the repo and look for any DS-Algo which is currently not in the repo ,which you can add.
+1) [FileInputStream](https://github.com/sherxon/AlgoDS/blob/master/src/oi/UsingInputStream.java)   
+2) [BufferedInputStream](https://github.com/sherxon/AlgoDS/blob/master/src/oi/UsingBufferedStreams.java)   
+3) [Direct Buffering](https://github.com/sherxon/AlgoDS/blob/master/src/oi/UsingDirectBuffering.java)   
+4) [BufferedReader](https://github.com/sherxon/AlgoDS/blob/master/src/oi/UsingBufferedReader.java)   
+5) [MappedByteBuffer](https://github.com/sherxon/AlgoDS/blob/master/src/oi/UsingMemoryMappedFile.java)  
 
-The language can be C or C++ or python .Just make sure your file has a mention of the language(python or c++) in which you are submitting your codes  in.
-
-Make sure you are not submitting an already existing algo or question.
-
-
-
+You can download and create test cases Using DumpDataWriter class and see results on you own machine. 
 
 
