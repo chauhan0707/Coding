@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StudentResult>
+ <student>
+  <rollno>
+   R110218109
+  </rollno>
+  <name>
+   Prithvi
+  </name>
+  <subject>
+   <sub1>OS
+    <marks>94</marks>
+   </sub1>
+   <sub2>ADBMS
+    <marks>98</marks>
+   </sub2>
+   <sub3>MICRO
+    <marks>100</marks>
+   </sub3>
+  </subject>
+  <total>292</total>
+  <percentage>97%</percentage>
+  <result>PASS</result>
+ </student>
+<student>
+  <rollno>
+   R110218104
+  </rollno>
+  <name>
+   Aviral
+  </name>
+  <subject>
+   <sub1>OS
+    <marks>94</marks>
+   </sub1>
+   <sub2>ADBMS
+    <marks>98</marks>
+   </sub2>
+   <sub3>MICRO
+    <marks>100</marks>
+   </sub3>
+  </subject>
+  <total>292</total>
+  <percentage>97%</percentage>
+  <result>PASS</result>
+ </student>
+<student>
+  <rollno>
+   R110218220
+  </rollno>
+  <name>
+   Shardul
+  </name>
+  <subject>
+   <sub1>OS
+    <marks>94</marks>
+   </sub1>
+   <sub2>ADBMS
+    <marks>98</marks>
+   </sub2>
+   <sub3>MICRO
+    <marks>100</marks>
+   </sub3>
+  </subject>
+  <total>292</total>
+  <percentage>97%</percentage>
+  <result>PASS</result>
+ </student>
+</StudentResult>
+
+
