@@ -1,0 +1,37 @@
+<Employee>
+<emp1>
+<empid>12345</empid>
+<name>Prithvi Chauhan</name>
+<department>IT</department>
+<role>Hacker</role>
+<manager>Shashwat Singh</manager>
+</emp1>
+<emp2>
+<empid>125</empid>
+<name>Shashank Mishra</name>
+<department>SRE</department>
+<role>Accountant</role>
+<manager>Shashwat Singh</manager>
+</emp2>
+<emp3>
+<empid>25</empid>
+<name>Mridul Dhawan</name>
+<department>SRE</department>
+<role>Executive</role>
+<manager>Ashish Kaul</manager>
+</emp3>
+<emp4>
+<empid>1235</empid>
+<name>Sushil Chaudhary</name>
+<department>IT</department>
+<role>Coder</role>
+<manager>Shubham Kak</manager>
+</emp4>
+<emp5>
+<empid>1265</empid>
+<name>Rahul Dravid</name>
+<department>CSI</department>
+<role>Treasurer</role>
+<manager>Vidhushi Bareja</manager>
+</emp5>
+</Employee>
