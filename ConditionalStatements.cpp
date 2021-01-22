@@ -2,37 +2,40 @@
 using namespace std;
 int main()
 {
-	 int age;
-	 char gender;
-	 cout<<"Enter age: ";
-	 cin>>age;
-	 cout<<"Enter gender as M or F: ";
-	 cin>>gender;
-	 if(gender=='M')
-	 {
-	 	cout<<"Male ";
-	 	if(age<18)
-	 	{
-	 		cout<<"Kid";
-	 		
-		 }
-		 else{
-		 
-		 
-		 	cout<<"Adult";
+	int age;
+    char gender;
+    cout<<"Enter age: \n";
+    cin>>age;
+    cout<<"Enter gender M or F: \n";
+    cin>>gender;
+    if(gender=='M')
+    {
+    	cout<<"Male ";
+		if(age>=18)
+		{
+			cout<<"Adult";
+		}
+		else
+		{
+			cout<<"Kid";
+		}
 	}
-	 }
-	 else
-	 {
-	 	cout<<"Female ";
-	 	if(age<18)
-	 	{
-	 		cout<<"Kid";
-		 }
-		 else
-		 {
-		 	cout<<"Adult";
-		 }
-	 }
-	 return 0;
+	else if(gender=='F')
+	{
+		cout<<"Female ";
+		if(age>=18)
+		{
+			cout<<"Adult";
+		}
+		else
+		{
+			cout<<"Kid";
+		}
+	}
+	else
+	{
+		cout<<"Other";
+	}
+    
+	return 0;
 }
