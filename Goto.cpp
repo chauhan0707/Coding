@@ -6,18 +6,10 @@ int main()
 	cout<<"Enter a number: ";
 	cin>>n;
 	if(n%2==0)
-	{
-		goto label1;
-	}
-	
+	goto label1;
 	else
-	{
-		goto label2;
-	}
-	label1: 
-	cout<<"Even";
+	goto label2;
+	label1:cout<<"Even number";
 	return 0;
-	label2:
-	cout<<"Odd";
-	return 0;
+	label2:cout<<"Odd number";
 }
