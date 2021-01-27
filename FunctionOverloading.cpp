@@ -2,7 +2,7 @@
 using namespace std;
 void print(int i)
 {
-	cout<<i<<" ";
+	cout<<i<<endl;
 }
 void print(string s)
 {
@@ -14,3 +14,4 @@ int main()
 	print("GFG");
 	return 0;
 }
+
